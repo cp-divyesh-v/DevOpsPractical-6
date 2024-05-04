@@ -9,7 +9,7 @@ on:
       - main
 
 env:
-  SCHEME: DevOpsPractical6
+  SCHEME: DevOpsPractical-6
 
 jobs:
   build:
